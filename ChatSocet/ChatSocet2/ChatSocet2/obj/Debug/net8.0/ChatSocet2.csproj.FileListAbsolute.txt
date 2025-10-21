@@ -1,0 +1,14 @@
+C:\Users\Elif\Desktop\C\ChatSocet2\ChatSocet2\bin\Debug\net8.0\ChatSocet2.exe
+C:\Users\Elif\Desktop\C\ChatSocet2\ChatSocet2\bin\Debug\net8.0\ChatSocet2.deps.json
+C:\Users\Elif\Desktop\C\ChatSocet2\ChatSocet2\bin\Debug\net8.0\ChatSocet2.runtimeconfig.json
+C:\Users\Elif\Desktop\C\ChatSocet2\ChatSocet2\bin\Debug\net8.0\ChatSocet2.dll
+C:\Users\Elif\Desktop\C\ChatSocet2\ChatSocet2\bin\Debug\net8.0\ChatSocet2.pdb
+C:\Users\Elif\Desktop\C\ChatSocet2\ChatSocet2\obj\Debug\net8.0\ChatSocet2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Elif\Desktop\C\ChatSocet2\ChatSocet2\obj\Debug\net8.0\ChatSocet2.AssemblyInfoInputs.cache
+C:\Users\Elif\Desktop\C\ChatSocet2\ChatSocet2\obj\Debug\net8.0\ChatSocet2.AssemblyInfo.cs
+C:\Users\Elif\Desktop\C\ChatSocet2\ChatSocet2\obj\Debug\net8.0\ChatSocet2.csproj.CoreCompileInputs.cache
+C:\Users\Elif\Desktop\C\ChatSocet2\ChatSocet2\obj\Debug\net8.0\ChatSocet2.dll
+C:\Users\Elif\Desktop\C\ChatSocet2\ChatSocet2\obj\Debug\net8.0\refint\ChatSocet2.dll
+C:\Users\Elif\Desktop\C\ChatSocet2\ChatSocet2\obj\Debug\net8.0\ChatSocet2.pdb
+C:\Users\Elif\Desktop\C\ChatSocet2\ChatSocet2\obj\Debug\net8.0\ChatSocet2.genruntimeconfig.cache
+C:\Users\Elif\Desktop\C\ChatSocet2\ChatSocet2\obj\Debug\net8.0\ref\ChatSocet2.dll
